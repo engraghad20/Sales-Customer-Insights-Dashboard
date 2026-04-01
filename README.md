@@ -1,2 +1,2 @@
 # Sales-Customer-Insights-Dashboard
-<img width="1902" height="897" alt="Screenshot 2026-01-14 110057" src="https://github.com/user-attachments/assets/C:\Users\ragad\OneDrive\Dokumenty" />
+![77c50f48-bd76-4984-9366-1465451e7ce4](https://github.com/user-attachments/assets/258bb9ec-4c5b-4a54-a653-da56a6ac4a5e)
